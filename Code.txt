@@ -7,4 +7,4 @@ dialog.setPositiveButton("Окей", new DialogInterface.OnClickListener() {
 	}
 });
 dialog.create().show();
-Вставить в Sketchware в блок add source code
+Вставить в Sketchware в блок add source code которое находится в разделе operator
