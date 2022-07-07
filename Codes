@@ -1,0 +1,10 @@
+dialog.setTitle("ЕЩЕ СЕРВЕРА ");
+dialog.setMessage("ОСТАЛЬНЫЕ СЕРВЕРА ДОСТУПНЫ В ПРО ВЕРСИИ");
+dialog.setPositiveButton("Окей", new DialogInterface.OnClickListener() {
+	@Override
+	public void onClick(DialogInterface _dialog, int _which) {
+		
+	}
+});
+dialog.create().show();
+Вставить в Sketchware в блок add source code
